@@ -1,4 +1,11 @@
-# Projeto EBOOK Gerado por I.A.s
+# Palavras do Agora, Versos da Alma - Projeto EBOOK Gerado por I.A.s
+
+<p align="center">
+<img 
+    src="./assets/cover.png"
+    width="400"  
+/>
+</p>
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da [DIO](https://dio.me)
@@ -6,7 +13,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/vicataborda/e-book-palavras-do-agora-versos-da-alma-Vitoria-C-Taborda/blob/main/Ebook%20-%20Palavras%20do%20agora%2C%20versos%20da%20alma.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -46,7 +53,7 @@ NightCafé：
       align=left 
       margin=10 
       width=80 
-      src="[https://avatars.githubusercontent.com/u/191050453?v=4]"
+      src="https://avatars.githubusercontent.com/u/191050453?v=4"
     />
     <p>&nbsp&nbsp&nbspVitória C. Taborda<br>
     &nbsp&nbsp&nbsp

@@ -2,7 +2,7 @@
 
 <p align="center">
 <img 
-    src="https://github.com/vicataborda/e-book-palavras-do-agora-versos-da-alma-Vitoria-C-Taborda/blob/main/Ebook%20-%20Palavras%20do%20Agora%2C%20Versos%20da%20Alma.jpg"
+    src="https://github.com/vicataborda/e-book-palavras-do-agora-versos-da-alma-Vitoria-C-Taborda/blob/main/capa%20ebook.jpg"
     width="400"  
 />
 </p>

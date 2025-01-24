@@ -12,7 +12,7 @@
 Projeto com o objetivo de gerar um e-book digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/vicataborda/e-book-palavras-do-agora-versos-da-alma-Vitoria-C-Taborda/blob/main/Ebook%20-%20Palavras%20do%20agora%2C%20versos%20da%20alma.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/vicataborda/e-book-palavras-do-agora-versos-da-alma-Vitoria-C-Taborda/blob/main/Ebook%20-%20Palavras%20do%20agora%20Versos%20da%20alma%20v2.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto:
 
